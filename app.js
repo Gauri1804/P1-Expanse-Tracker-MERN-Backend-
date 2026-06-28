@@ -74,8 +74,8 @@ app.use(express.json());
 app.use(
   cors({
     origin: [
-      "https://main.d1sj7cd70hlter.amplifyapp.com",
-      "https://expense-tracker-app-three-beryl.vercel.app",
+      "https://p1-expanse-tracker-mern-frontend.vercel.app",
+      "https://p1-expanse-tracker-mern-backend.vercel.app",
       "http://localhost:3000",
       "http://localhost:5000",
     ],
